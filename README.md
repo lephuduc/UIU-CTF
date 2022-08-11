@@ -20,7 +20,7 @@ Và một cái fake flag như này:
 
 `uiuctf{sorry_im_just_a_fake_flag}`
 
-Trace tới chổ gọi fake flag, ta có được hàm `sub_180013B90()` gọi tới nó:
+Xref tới chổ gọi fake flag, ta có được hàm `sub_180013B90()` gọi tới nó:
 
 ```c
 __int64 __fastcall sub_180013B90(const char *a1, _BYTE *a2)
